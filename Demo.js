@@ -1,3 +1,3 @@
 <script>
-alert("Hello Brother");
+alert("Hello not Welcome in GitHub page");
 </script>
